@@ -32,3 +32,12 @@ h1 {
 section {
     background-color: rgb(124, 122, 123);
 }
+
+
+/* ====== STYLE Links =========== */
+
+a {
+    text-align: center;
+    background-color: rgb(240, 240, 240);
+    color: #333;
+}
