@@ -1,0 +1,17 @@
+/* ==========================================
+    hw1.CSS
+    These are the final styles for the project .
+   (Homework One)
+   Author:  Saddam Arbaa
+   Website: (TODO)
+   ========================================== */
+
+header {
+    background-color: #f0ebeb;
+}
+
+h1,
+h2 {
+    color: #fff;
+    text-align: center;
+}
