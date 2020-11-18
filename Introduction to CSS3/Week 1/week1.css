@@ -1,0 +1,44 @@
+/* =====================
+   STYLE weeks1.css
+   ===================== */
+
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-size: 1.5rem;
+}
+
+h1 {
+    background-color: #B3B3B3;
+    color: #fff;
+}
+
+h2 {
+    background-color: #00B7EA;
+    color: #666;
+}
+
+header,
+footer {
+    background-color: #666;
+    text-align: center;
+}
+
+nav {
+    font-family: Arial, "Time New Roman";
+    font-variant: small-caps;
+    text-align: center;
+    background-color: #B3B3B3;
+}
+
+details {
+    font-style: italic;
+}
+
+summary {
+    font-style: normal;
+}
