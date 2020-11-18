@@ -6,12 +6,29 @@
    Website: (TODO)
    ========================================== */
 
+
+/* ====== STYLE header =========== */
+
 header {
-    background-color: #f0ebeb;
+    background-color: rgb(180, 180, 180);
 }
+
+
+/* ====== H1,H2 =========== */
 
 h1,
 h2 {
     color: #fff;
+    text-transform: uppercase;
+}
+
+h1 {
     text-align: center;
+}
+
+
+/* ====== STYLE section =========== */
+
+section {
+    background-color: rgb(124, 122, 123);
 }
