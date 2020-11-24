@@ -52,6 +52,7 @@ img {
 }
 
 footer {
-    background-color: #666;
+    background: #00B7EA;
+    height: 100px;
     clear: both;
 }
