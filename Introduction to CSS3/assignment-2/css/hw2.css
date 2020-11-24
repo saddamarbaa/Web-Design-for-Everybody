@@ -12,7 +12,6 @@
 body {
     margin: 20px;
     padding: 5px;
-    background: #ffffff;
 }
 
 
@@ -28,6 +27,12 @@ header {
     background-repeat: no-repeat;
     /* Resize the background image to cover the entire container */
     background-size: cover;
+    min-height: 150px;
+    padding: 25px;
+}
+
+main {
+    overflow: hidden;
 }
 
 
@@ -54,6 +59,16 @@ section {
     background: rgb(124, 122, 123);
 }
 
+.left {
+    width: 25%;
+    float: left;
+}
+
+.right {
+    float: right;
+    width: 70%;
+}
+
 
 /* ====== STYLE Links =========== */
 
@@ -67,5 +82,5 @@ a {
 /* ====== STYLE images =========== */
 
 .left img {
-    display: none;
+    width: 100%;
 }
