@@ -13,15 +13,6 @@ body {
     margin: 4%;
 }
 
-
-/* Styling header */
-
-header {
-    background: #00B7EA;
-    text-align: center;
-    padding-bottom: 15px;
-}
-
 header,
 footer {
     background: #666666;
@@ -29,6 +20,14 @@ footer {
     background: -webkit-linear-gradient(#666666 0%, #00b7ea 100%);
     background: -o-linear-gradient(#666666 0%, #00b7ea 100%);
     background: linear-gradient(#666666 0%, #00b7ea 100%);
+}
+
+
+/* Styling header */
+
+header {
+    text-align: center;
+    padding-bottom: 15px;
 }
 
 h1 {
@@ -54,7 +53,7 @@ nav {
 nav a {
     width: 22%;
     display: inline-block;
-    text-decoration: none;
+    /* text-decoration: none; */
     background: #fff;
     padding: 10px;
 }
@@ -62,11 +61,15 @@ nav a {
 
 /* Styling main content(sections) */
 
-section {
-    width: 31.3%;
+section.half {
+    width: 48%;
     margin-right: 2%;
     display: inline-block;
     float: left;
+}
+
+section.whole {
+    clear: both;
 }
 
 details {
