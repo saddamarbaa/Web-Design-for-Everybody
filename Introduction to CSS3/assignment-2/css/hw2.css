@@ -33,6 +33,7 @@ header {
 
 main {
     overflow: hidden;
+    width: 100%;
 }
 
 
@@ -56,12 +57,14 @@ h2 {
 /* ====== STYLE section =========== */
 
 section {
-    background: rgb(124, 122, 123);
+    background: #EEFBFB;
 }
 
 .left {
-    width: 25%;
+    width: 30%;
     float: left;
+    text-align: center;
+    background: rgba(38, 158, 48, 0.822);
 }
 
 .right {
@@ -82,5 +85,6 @@ a {
 /* ====== STYLE images =========== */
 
 .left img {
-    width: 100%;
+    width: 90%;
+    margin-top: 5px;
 }
