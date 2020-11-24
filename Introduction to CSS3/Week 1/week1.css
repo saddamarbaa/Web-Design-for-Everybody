@@ -1,14 +1,17 @@
 /* =====================
     STYLE weeks1.css
-    Author:  Saddam Arbaa
+    Author: Saddam Arbaa
    =====================  */
+
 * {
     box-sizing: border-box;
     padding: 0px;
     margin: 0px;
 }
 
-body {font-size: 1.5rem;}
+body {
+    font-size: 1.5rem;
+}
 
 h1 {
     background-color: #B3B3B3;
@@ -33,6 +36,10 @@ nav {
     background-color: #B3B3B3;
 }
 
-details {font-style: italic;}
+details {
+    font-style: italic;
+}
 
-summary {font-style: normal;}
+summary {
+    font-style: normal;
+}
