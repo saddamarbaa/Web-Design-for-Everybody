@@ -7,10 +7,18 @@
    ========================================== */
 
 
+/* ====== STYLE body =========== */
+
+body {
+    margin: 20px;
+    padding: 5px;
+}
+
+
 /* ====== STYLE header =========== */
 
 header {
-    background-color: rgb(180, 180, 180);
+    background: rgb(180, 180, 180);
 }
 
 
@@ -34,7 +42,7 @@ h2 {
 /* ====== STYLE section =========== */
 
 section {
-    background-color: rgb(124, 122, 123);
+    background: rgb(124, 122, 123);
 }
 
 
@@ -42,7 +50,7 @@ section {
 
 a {
     text-align: center;
-    background-color: rgb(240, 240, 240);
+    background: rgb(240, 240, 240);
     color: #333;
 }
 
