@@ -1,5 +1,6 @@
 /* =====================
-   STYLE weeks1.css
+   STYLE weeks2.css
+   Author: Saddam Arbaa
    ===================== */
 
 * {
@@ -11,6 +12,9 @@ body {
     background: #B3B3B3;
     margin: 2%;
 }
+
+
+/* Styling header */
 
 header {
     background: #00B7EA;
@@ -27,9 +31,22 @@ h2 {
     color: #666;
 }
 
+
+/* Styling Navbar */
+
 nav {
     font-family: Arial, "Time New Roman";
     font-variant: small-caps;
+}
+
+
+/* Styling main content(sections) */
+
+section {
+    width: 30%;
+    margin-right: 2%;
+    display: inline-block;
+    float: left;
 }
 
 details {
@@ -40,19 +57,15 @@ summary {
     font-style: normal;
 }
 
-section {
-    width: 30%;
-    margin-right: 2%;
-    display: inline-block;
-    float: left;
-}
 
-img {
-    width: 100px;
-}
+/* Styling footer */
 
 footer {
     background: #00B7EA;
     height: 100px;
     clear: both;
+}
+
+img {
+    width: 100px;
 }
