@@ -12,13 +12,22 @@
 body {
     margin: 20px;
     padding: 5px;
+    background: #ffffff;
 }
 
 
 /* ====== STYLE header =========== */
 
 header {
-    background: rgb(180, 180, 180);
+    background: #A3BCB6;
+    /* The image used */
+    background-image: url('/images/flywheel.jpg');
+    /* Center the image */
+    /*background-position: center; */
+    /* Do not repeat the image */
+    background-repeat: no-repeat;
+    /* Resize the background image to cover the entire container */
+    background-size: cover;
 }
 
 
@@ -57,6 +66,6 @@ a {
 
 /* ====== STYLE images =========== */
 
-img {
+.left img {
     display: none;
 }
