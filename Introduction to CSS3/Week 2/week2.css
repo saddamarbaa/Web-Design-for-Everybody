@@ -22,6 +22,15 @@ header {
     padding-bottom: 15px;
 }
 
+header,
+footer {
+    background: #666666;
+    background: -moz-linear-gradient(top, #666666 0%, red, #00b7ea 100%);
+    background: -webkit-linear-gradient(#666666 0%, #00b7ea 100%);
+    background: -o-linear-gradient(#666666 0%, #00b7ea 100%);
+    background: linear-gradient(#666666 0%, #00b7ea 100%);
+}
+
 h1 {
     color: #ffffff;
 }
@@ -61,7 +70,6 @@ summary {
 /* Styling footer */
 
 footer {
-    background: #00B7EA;
     height: 100px;
     clear: both;
 }
