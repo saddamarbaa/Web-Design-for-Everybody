@@ -15,10 +15,10 @@ body {
 header {
     background: #666;
     text-align: center;
+    padding: 15px;
 }
 
 h1 {
-    background-color: #B3B3B3;
     color: #fff;
 }
 
@@ -27,17 +27,13 @@ h2 {
     color: #666;
 }
 
-header,
 footer {
     background-color: #666;
-    text-align: center;
 }
 
 nav {
     font-family: Arial, "Time New Roman";
     font-variant: small-caps;
-    text-align: center;
-    background-color: #B3B3B3;
 }
 
 details {
@@ -46,4 +42,10 @@ details {
 
 summary {
     font-style: normal;
+}
+
+section {
+    width: 30%;
+    display: inline-block;
+    float: left;
 }
