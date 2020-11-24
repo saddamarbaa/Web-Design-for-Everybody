@@ -53,7 +53,7 @@ nav {
 nav a {
     width: 22%;
     display: inline-block;
-    /* text-decoration: none; */
+    text-decoration: none;
     background: #fff;
     padding: 10px;
 }
