@@ -8,6 +8,8 @@
 
 * {
     box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
 }
 
 
@@ -23,24 +25,24 @@ body {
 /* ====== STYLE header =========== */
 
 header {
+    min-height: 150px;
+    padding: 25px;
     background: #A3BCB6;
     /* The image used */
     background-image: url('/images/flywheel.jpg');
-    /* Center the image */
-    /*background-position: center; */
     /* Do not repeat the image */
     background-repeat: no-repeat;
     /* Resize the background image to cover the entire container */
     background-size: cover;
-    min-height: 150px;
-    padding: 25px;
 }
 
+
+/* ====== STYLE Navbar =========== */
+
 header nav {
-    margin: 0;
-    padding: 0;
     overflow: hidden;
     text-align: center;
+    padding: 10px;
 }
 
 nav a {
@@ -52,6 +54,7 @@ nav a {
     margin: 0px 20px;
     width: 16%;
     background: #FAFDFE;
+    border-radius: 10px;
 }
 
 
@@ -84,7 +87,8 @@ h1 {
 }
 
 h2 {
-    color: #00c3ff;
+    color: #000;
+    margin: 10px;
 }
 
 
@@ -108,8 +112,17 @@ main .left {
 /* ====== main .right class take 75% of the content =========== */
 
 main .right {
+    line-height: 150%;
     float: right;
     width: 75%;
+}
+
+
+/* ====== STYLE paragraphs =========== */
+
+main .right p,
+h2 {
+    margin-top: 20px;
 }
 
 
