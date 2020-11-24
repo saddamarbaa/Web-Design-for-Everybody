@@ -9,26 +9,22 @@
 body {
     font-size: 1.5rem;
     background: #B3B3B3;
-    margin: 4%;
+    margin: 2%;
 }
 
 header {
-    background: #666;
+    background: #00B7EA;
     text-align: center;
-    padding: 15px;
+    padding-bottom: 15px;
 }
 
 h1 {
-    color: #fff;
+    color: #ffffff;
 }
 
 h2 {
     background-color: #00B7EA;
     color: #666;
-}
-
-footer {
-    background-color: #666;
 }
 
 nav {
@@ -46,6 +42,16 @@ summary {
 
 section {
     width: 30%;
+    margin-right: 2%;
     display: inline-block;
     float: left;
+}
+
+img {
+    width: 100px;
+}
+
+footer {
+    background-color: #666;
+    clear: both;
 }
