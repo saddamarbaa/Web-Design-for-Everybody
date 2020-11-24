@@ -1,0 +1,58 @@
+/* =====================
+   STYLE weeks1.css
+   ===================== */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 1.5rem;
+    background: #B3B3B3;
+    margin: 2%;
+}
+
+header {
+    background: #00B7EA;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+h2 {
+    background-color: #00B7EA;
+    color: #666;
+}
+
+nav {
+    font-family: Arial, "Time New Roman";
+    font-variant: small-caps;
+}
+
+details {
+    font-style: italic;
+}
+
+summary {
+    font-style: normal;
+}
+
+section {
+    width: 30%;
+    margin-right: 2%;
+    display: inline-block;
+    float: left;
+}
+
+img {
+    width: 100px;
+}
+
+footer {
+    background: #00B7EA;
+    height: 100px;
+    clear: both;
+}

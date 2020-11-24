@@ -1,25 +1,18 @@
 /* =====================
-   STYLE weeks1.css
-   ===================== */
-
+    STYLE weeks1.css
+    Author:  Saddam Arbaa
+   =====================  */
 * {
     box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
 }
 
-body {
-    font-size: 1.5rem;
-    background: #B3B3B3;
-    margin: 2%;
-}
-
-header {
-    background: #00B7EA;
-    text-align: center;
-    padding-bottom: 15px;
-}
+body {font-size: 1.5rem;}
 
 h1 {
-    color: #ffffff;
+    background-color: #B3B3B3;
+    color: #fff;
 }
 
 h2 {
@@ -27,32 +20,19 @@ h2 {
     color: #666;
 }
 
+header,
+footer {
+    background-color: #666;
+    text-align: center;
+}
+
 nav {
     font-family: Arial, "Time New Roman";
     font-variant: small-caps;
+    text-align: center;
+    background-color: #B3B3B3;
 }
 
-details {
-    font-style: italic;
-}
+details {font-style: italic;}
 
-summary {
-    font-style: normal;
-}
-
-section {
-    width: 30%;
-    margin-right: 2%;
-    display: inline-block;
-    float: left;
-}
-
-img {
-    width: 100px;
-}
-
-footer {
-    background: #00B7EA;
-    height: 100px;
-    clear: both;
-}
+summary {font-style: normal;}
