@@ -35,11 +35,6 @@ header {
     padding: 25px;
 }
 
-main {
-    overflow: hidden;
-    width: 100%;
-}
-
 
 /* ====== H1,H2 =========== */
 
@@ -58,36 +53,35 @@ h2 {
 }
 
 
-/* ====== STYLE section =========== */
+/* ====== STYLE main content =========== */
 
-section {
-    background: #EEFBFB;
+main {
+    overflow: hidden;
 }
 
 
-/* ====== main .leftt class take 30% of the content =========== */
+/* ====== main .leftt class take 25% of the content =========== */
 
 main .left {
-    width: 30%;
+    width: 25%;
     float: left;
     text-align: center;
-    background: white;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background: #f6faf0;
 }
 
 
-/* ====== main .right class take 70% of the content =========== */
+/* ====== main .right class take 75% of the content =========== */
 
 main .right {
     float: right;
-    width: 70%;
+    width: 75%;
 }
 
 
 /* ====== STYLE images =========== */
 
 .left img {
-    width: 80%;
+    width: 85%;
     margin-top: 8%;
     border: 1px solid #ddd;
     border-radius: 4px;
