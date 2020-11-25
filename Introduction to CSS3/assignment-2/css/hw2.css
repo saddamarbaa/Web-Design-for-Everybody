@@ -25,11 +25,11 @@ body {
 /* ====== STYLE header =========== */
 
 header {
+    background: #A3BCB6;
     min-height: 150px;
     padding: 25px;
-    background: #A3BCB6;
     /* The image used */
-    background-image: url('/images/flywheel.jpg');
+    background-image: url("../images/flywheel.jpg");
     /* Do not repeat the image */
     background-repeat: no-repeat;
     /* Resize the background image to cover the entire container */
