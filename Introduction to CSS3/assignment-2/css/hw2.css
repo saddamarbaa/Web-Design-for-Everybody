@@ -36,7 +36,6 @@ header {
     background-size: cover;
 }
 
-
 /* ====== STYLE Navbar =========== */
 
 header nav {
@@ -57,14 +56,12 @@ nav a {
     border-radius: 10px;
 }
 
-
 /* ====== STYLE links on hover =========== */
 
 nav a:hover:not(.active) {
     background-color: #e2f0f8;
     color: black
 }
-
 
 /* ====== STYLE the active links =========== */
 
@@ -73,13 +70,9 @@ nav a.active {
     color: black
 }
 
-
 /* ====== H1,H2 =========== */
 
-h1,
-h2 {
-    text-transform: uppercase;
-}
+h1 {text-transform: uppercase;}
 
 h1 {
     color: #fff;
@@ -91,13 +84,9 @@ h2 {
     margin: 10px;
 }
 
-
 /* ====== STYLE main content =========== */
 
-main {
-    overflow: hidden;
-}
-
+main {overflow: hidden;}
 
 /* ====== main .leftt class take 25% of the content =========== */
 
@@ -108,7 +97,6 @@ main .left {
     background: #f6faf0;
 }
 
-
 /* ====== main .right class take 75% of the content =========== */
 
 main .right {
@@ -117,14 +105,12 @@ main .right {
     width: 75%;
 }
 
-
 /* ====== STYLE paragraphs =========== */
 
 main .right p,
 h2 {
     margin-top: 20px;
 }
-
 
 /* ====== STYLE images =========== */
 
@@ -137,13 +123,11 @@ h2 {
     height: auto;
 }
 
-
 /* ====== STYLE images on hover =========== */
 
 .left img:hover {
     border: 1px solid #777;
 }
-
 
 /* ====== STYLE Table on team.html page =========== */
 
@@ -169,6 +153,4 @@ th {
     color: white;
 }
 
-tr:hover {
-    background-color: #ddd;
-}
+tr:hover {background-color: #ddd;}
