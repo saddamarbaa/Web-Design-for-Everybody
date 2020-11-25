@@ -6,13 +6,9 @@
    Website: (TODO)
    ========================================== */
 
-
 /* ====== STYLE header =========== */
 
-header {
-    background-color: rgb(180, 180, 180);
-}
-
+header {background-color: rgb(180, 180, 180);}
 
 /* ====== H1,H2 =========== */
 
@@ -26,17 +22,11 @@ h1 {
     text-align: center;
 }
 
-h2 {
-    color: #00c3ff;
-}
-
+h2 {color: #00c3ff;}
 
 /* ====== STYLE section =========== */
 
-section {
-    background-color: rgb(124, 122, 123);
-}
-
+section {background-color: rgb(124, 122, 123);}
 
 /* ====== STYLE Links =========== */
 
@@ -46,9 +36,6 @@ a {
     color: #333;
 }
 
-
 /* ====== STYLE images =========== */
 
-img {
-    display: none;
-}
+img {display: none;}
