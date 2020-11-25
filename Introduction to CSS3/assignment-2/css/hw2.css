@@ -48,10 +48,10 @@ header nav {
 nav a {
     color: #100f0f;
     text-align: center;
-    padding: 20px 16px;
+    padding: 23px 16px;
     text-decoration: none;
     display: inline-block;
-    margin: 0px 20px;
+    margin: 0px 30px;
     width: 16%;
     background: #FAFDFE;
     border-radius: 10px;
@@ -142,4 +142,24 @@ h2 {
 
 .left img:hover {
     border: 1px solid #777;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
 }
