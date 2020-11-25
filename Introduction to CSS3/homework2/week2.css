@@ -3,9 +3,7 @@
    Author: Saddam Arbaa
    ===================== */
 
-* {
-    box-sizing: border-box;
-}
+* {box-sizing: border-box;}
 
 body {
     font-size: 1.5rem;
@@ -22,7 +20,6 @@ footer {
     background: linear-gradient(#666666 0%, #00b7ea 100%);
 }
 
-
 /* Styling header */
 
 header {
@@ -38,7 +35,6 @@ h2 {
     background-color: #00B7EA;
     color: #666;
 }
-
 
 /* Styling Navbar */
 
@@ -58,7 +54,6 @@ nav a {
     padding: 10px;
 }
 
-
 /* Styling main content(sections) */
 
 section.half {
@@ -68,18 +63,11 @@ section.half {
     float: left;
 }
 
-section.whole {
-    clear: both;
-}
+section.whole {clear: both;}
 
-details {
-    font-style: italic;
-}
+details {font-style: italic;}
 
-summary {
-    font-style: normal;
-}
-
+summary {font-style: normal;}
 
 /* Styling footer */
 
@@ -88,6 +76,4 @@ footer {
     clear: both;
 }
 
-img {
-    width: 120px;
-}
+img {width: 120px;}
