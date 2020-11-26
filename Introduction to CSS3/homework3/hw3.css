@@ -2,3 +2,16 @@
    STYLE weeks2.css
    Author: Saddam Arbaa
    ===================== */
+
+
+/*Set the table color, border, and spacing...*/
+
+table.cal {
+    color: #06425C;
+    border-spacing: 0;
+    border: 3px solid black;
+    -webkit-border-radius: 25px 25px 0 0;
+    border-radius: 0 0 25px 25px;
+    margin: 2% auto;
+    /* been added */
+}
