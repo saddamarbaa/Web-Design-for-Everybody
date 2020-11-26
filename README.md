@@ -1,11 +1,15 @@
-# I made this repository to document my progress while 
-# Learning Web Design for Everybody: Basics of Web Development & Coding Specialization Offered By University of Michigan on Coursera
+# Web Design for Everybody
+ 
+ I made this repository to document my progress 
+ while Learning Web Design for Everybody: Basics of 
+ Web Development & Coding Specialization Offered By 
+ University of Michigan on Coursera.
 
-# link to the full Specialization
-
+# link to the Specialization on Coursera
 https://www.coursera.org/specializations/web-design
 
-# About this Specialization
+# About Specialization
+
 This Specialization covers how to write syntactically correct HTML5 and CSS3, 
 and how to create interactive web experiences with JavaScript.
 
@@ -13,16 +17,15 @@ and how to create interactive web experiences with JavaScript.
 
 # (1) Introduction to HTML5
 
-# link to the Introduction to HTML5 course on Coursera
-
+link to the Introduction to HTML5 course on Coursera
 https://www.coursera.org/learn/html?specialization=web-design
 
-# link to my Certificate
+![image](https://user-images.githubusercontent.com/51326421/100358334-a29dae80-3028-11eb-965b-b4fe5a2abf71.png)
 
+# link to my Certificate on Coursera
 https://coursera.org/share/12a0d10aa73494fa81dc96cffcbde66b
 
 # link to the final project
-
 https://saddamarbaa.github.io/Web-Design-for-Everybody/Introduction%20to%20HTML5/Final.html
 
 
