@@ -3,7 +3,6 @@
    Author: Saddam Arbaa
    ===================== */
 
-
 /*Set the table color, border, and spacing...*/
 
 table.cal {
@@ -26,9 +25,8 @@ tr:nth-child(even) {
     background: #CDBB79;
 }
 
-
 /*To curve the bottom, we need to curve the
-row and the element.  And each element needs to 
+row and the element.  And each element needs to
 curve a different corner.*/
 
 tr:last-child {
@@ -46,7 +44,6 @@ tr:last-child>td:last-child {
     border-radius: 0 0 25px 0;
 }
 
-
 /*Format the caption
 Use border-radius for just some corners*/
 
@@ -58,7 +55,6 @@ Use border-radius for just some corners*/
     -webkit-border-radius: 25px 25px 0 0;
     border-radius: 25px 25px 0 0;
 }
-
 
 /*Format common heading and element attributes*/
 
@@ -79,7 +75,6 @@ th {
     height: 75px;
 }
 
-
 /*Set the size and alignment for elements*/
 
 .cal td {
@@ -97,7 +92,6 @@ th {
     background-color: #51A39D;
 }
 
-
 /*By default, hide the appointments*/
 
 span {
@@ -106,7 +100,6 @@ span {
     color: #800000;
     visibility: hidden;
 }
-
 
 /*Show the appointments when the date is clicked on*/
 
