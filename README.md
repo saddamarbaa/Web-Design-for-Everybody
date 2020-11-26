@@ -61,14 +61,26 @@ https://saddamarbaa.github.io/Web-Design-for-Everybody/Introduction to CSS3/Fina
 
 
 
-link to the final project1 :
+link to project1 :
 
 https://saddamarbaa.github.io/Web-Design-for-Everybody/Introduction to CSS3/Project1/index.html
 
 
-link to the final project2 :
+
+
+![image](https://user-images.githubusercontent.com/51326421/100362086-8b14f480-302d-11eb-9b2e-14aaeee6d1f2.png)
+
+
+
+
+link to the project2 :
 
 https://saddamarbaa.github.io/Web-Design-for-Everybody/Introduction to CSS3/Project2/index.html
+
+
+
+![image](https://user-images.githubusercontent.com/51326421/100362202-b13a9480-302d-11eb-9cdb-8076c1b511a1.png)
+
 
 
 link to the homework1 :
@@ -101,41 +113,35 @@ https://saddamarbaa.github.io/Web-Design-for-Everybody/Introduction to CSS3/home
 
 
 
-
+# TODO
 
 # (3) Interactivity with JavaScript
 
-# link to the Interactivity with JavaScript course on Coursera
+link to the Interactivity with JavaScript course on Coursera :
 
-TODO
+https://www.coursera.org/learn/javascript?specialization=web-design
 
-# link to the final project
 
-TODO
 
 
 # (4) Advanced Styling with Responsive Design
 
-# link to the Advanced Styling with Responsive Design course on Coursera
+ link to the Advanced Styling with Responsive Design course on Coursera :
 
-TODO
+ https://www.coursera.org/learn/responsivedesign?specialization=web-design
 
-# link to the final project
 
-TODO
 
 
 
 
 # (5)  Web Design for Everybody Capstone
 
-# link to the Web Design for Everybody Capstone course on Coursera
+link to the Web Design for Everybody Capstone course on Coursera  :
 
-TODO
+https://www.coursera.org/learn/web-design-project
 
-# link to the final project
 
-TODO
 
 
 
