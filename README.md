@@ -52,9 +52,47 @@ https://coursera.org/share/72560ba8c0625742fabca57f8d550de2
 ![image](https://user-images.githubusercontent.com/51326421/100359680-75ea9680-302a-11eb-967e-eb1951d63dbf.png)
 
 
-# link to the final project
+ link to the final project :
 
-TODO
+https://saddamarbaa.github.io/Web-Design-for-Everybody/Introduction to CSS3/Final Project/index.html
+
+
+link to the final project1 :
+
+https://saddamarbaa.github.io/Web-Design-for-Everybody/Introduction to CSS3/Project1/index.html
+
+
+link to the final project2 :
+
+https://saddamarbaa.github.io/Web-Design-for-Everybody/Introduction to CSS3/Project2/index.html
+
+
+link to the homework1 :
+
+https://saddamarbaa.github.io/Web-Design-for-Everybody/Introduction to CSS3/homework1/week1.html
+
+![image](https://user-images.githubusercontent.com/51326421/100361432-bcd98b80-302c-11eb-9b9e-0e57ac01fa52.png)
+
+
+
+link to the homework2 :
+
+https://saddamarbaa.github.io/Web-Design-for-Everybody/Introduction to CSS3/homework2/week2.html
+
+
+![image](https://user-images.githubusercontent.com/51326421/100361206-7126e200-302c-11eb-9fb0-e963de855cd2.png)
+
+
+
+link to the homework3 :
+
+https://saddamarbaa.github.io/Web-Design-for-Everybody/Introduction to CSS3/homework3/hw3.html
+
+
+![image](https://user-images.githubusercontent.com/51326421/100360896-1c836700-302c-11eb-9248-8e280f7c2c42.png)
+
+
+
 
 
 
