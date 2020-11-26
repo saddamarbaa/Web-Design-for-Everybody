@@ -22,11 +22,14 @@ link to the Introduction to HTML5 course on Coursera
 https://www.coursera.org/learn/html?specialization=web-design
 
 
-# link to my Certificate on Coursera
+link to my Certificate on Coursera
 https://coursera.org/share/12a0d10aa73494fa81dc96cffcbde66b
 
 
+
 ![image](https://user-images.githubusercontent.com/51326421/100358334-a29dae80-3028-11eb-965b-b4fe5a2abf71.png)
+
+
 
 
 # link to Introduction to HTML5 final project
@@ -37,9 +40,17 @@ https://saddamarbaa.github.io/Web-Design-for-Everybody/Introduction%20to%20HTML5
 
 # (2) Introduction to CSS3
 
-# link to the Introduction to CSS3 course on Coursera
+link to the Introduction to CSS3 course on Coursera :
+https://www.coursera.org/learn/introcss?specialization=web-design
 
-TODO
+
+
+link to my Certificate on Coursera
+https://coursera.org/share/72560ba8c0625742fabca57f8d550de2
+
+
+![image](https://user-images.githubusercontent.com/51326421/100359680-75ea9680-302a-11eb-967e-eb1951d63dbf.png)
+
 
 # link to the final project
 
