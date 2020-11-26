@@ -13,7 +13,7 @@ table.cal {
     -webkit-border-radius: 25px 25px 0 0;
     border-radius: 0 0 25px 25px;
     margin: 2% auto;
-    /* been added */
+    /* been added  */
 }
 
 
@@ -21,4 +21,18 @@ table.cal {
 
 tr:nth-child(odd) {
     background: #F2F2F2;
+}
+
+tr:nth-child(even) {
+    background: #CDBB79;
+}
+
+
+/*By default, hide the appointments*/
+
+span {
+    display: block;
+    text-align: center;
+    color: #800000;
+    visibility: hidden;
 }
