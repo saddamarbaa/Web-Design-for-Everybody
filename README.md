@@ -22,10 +22,7 @@ https://www.coursera.org/learn/html?specialization=web-design
 link to my Certificate on Coursera
 https://coursera.org/share/12a0d10aa73494fa81dc96cffcbde66b
 
-
-
 ![image](https://user-images.githubusercontent.com/51326421/100358334-a29dae80-3028-11eb-965b-b4fe5a2abf71.png)
-
 
 
 
@@ -35,13 +32,10 @@ https://saddamarbaa.github.io/web-design-for-everybody/Introduction%20to%20HTML5
 ![image](https://user-images.githubusercontent.com/51326421/101835464-657c0500-3b6e-11eb-9dfb-81188b364e0b.png)
 
 
-
-
 # (2) Introduction to CSS3
 
 link to the Introduction to CSS3 course on Coursera :
 https://www.coursera.org/learn/introcss?specialization=web-design
-
 
 
 link to my Certificate on Coursera
@@ -58,13 +52,10 @@ https://saddamarbaa.github.io/web-design-for-everybody/Introduction%20to%20CSS3/
 
 
 
-
 link to project1 :
 
 https://saddamarbaa.github.io/web-design-for-everybody/Introduction%20to%20CSS3/Project1/
 ![image](https://user-images.githubusercontent.com/51326421/101835948-213d3480-3b6f-11eb-9449-bacbbd23f4b4.png)
-
-
 
 
 
@@ -75,14 +66,10 @@ https://saddamarbaa.github.io/web-design-for-everybody/Introduction%20to%20CSS3/
 
 
 
-
-
 link to the homework1 :
 https://saddamarbaa.github.io/web-design-for-everybody/Introduction%20to%20CSS3/homework1/week1.html
 
 ![image](https://user-images.githubusercontent.com/51326421/101836347-cfe17500-3b6f-11eb-8648-0e48ff7f407e.png)
-
-
 
 
 link to the homework2 :
@@ -92,16 +79,10 @@ https://saddamarbaa.github.io/web-design-for-everybody/Introduction%20to%20CSS3/
 
 
 
-
-
-
-
 link to the homework3 :
 
 https://saddamarbaa.github.io/web-design-for-everybody/Introduction%20to%20CSS3/homework3/hw3.html
 ![image](https://user-images.githubusercontent.com/51326421/101836590-43838200-3b70-11eb-8281-3aa4ad05b6de.png)
-
-
 
 
 
