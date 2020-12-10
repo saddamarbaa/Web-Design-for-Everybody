@@ -6,7 +6,6 @@ link to the Specialization on Coursera
 https://www.coursera.org/specializations/web-design
 
 
-
 # About Specialization
 
 This Specialization covers how to write syntactically correct HTML5 
