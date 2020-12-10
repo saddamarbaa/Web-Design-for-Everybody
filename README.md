@@ -78,30 +78,29 @@ https://saddamarbaa.github.io/web-design-for-everybody/Introduction%20to%20CSS3/
 
 
 link to the homework1 :
+https://saddamarbaa.github.io/web-design-for-everybody/Introduction%20to%20CSS3/homework1/week1.html
 
-https://saddamarbaa.github.io/Web-Design-for-Everybody/Introduction to CSS3/homework1/week1.html
+![image](https://user-images.githubusercontent.com/51326421/101836347-cfe17500-3b6f-11eb-8648-0e48ff7f407e.png)
 
-![image](https://user-images.githubusercontent.com/51326421/100361432-bcd98b80-302c-11eb-9b9e-0e57ac01fa52.png)
 
 
 
 link to the homework2 :
 
-https://saddamarbaa.github.io/Web-Design-for-Everybody/Introduction to CSS3/homework2/week2.html
+https://saddamarbaa.github.io/web-design-for-everybody/Introduction%20to%20CSS3/homework2/week2.html
+![image](https://user-images.githubusercontent.com/51326421/101836461-04edc780-3b70-11eb-8c03-7ed25d6c87e0.png)
 
 
 
 
-![image](https://user-images.githubusercontent.com/51326421/100361206-7126e200-302c-11eb-9fb0-e963de855cd2.png)
 
 
 
 link to the homework3 :
 
-https://saddamarbaa.github.io/Web-Design-for-Everybody/Introduction to CSS3/homework3/hw3.html
+https://saddamarbaa.github.io/web-design-for-everybody/Introduction%20to%20CSS3/homework3/hw3.html
+![image](https://user-images.githubusercontent.com/51326421/101836590-43838200-3b70-11eb-8281-3aa4ad05b6de.png)
 
-
-![image](https://user-images.githubusercontent.com/51326421/100360896-1c836700-302c-11eb-9248-8e280f7c2c42.png)
 
 
 
